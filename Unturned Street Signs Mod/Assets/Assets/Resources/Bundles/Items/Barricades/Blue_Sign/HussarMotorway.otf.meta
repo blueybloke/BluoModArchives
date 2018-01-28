@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1cc3c062f4ab59e4eb9571da06acf2ef
+timeCreated: 1501412155
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hussar Motorway
+  fontNames:
+  - Hussar Motorway
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

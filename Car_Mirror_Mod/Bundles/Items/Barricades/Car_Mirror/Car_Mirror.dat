@@ -1,0 +1,28 @@
+GUID 61b507d920a0492abae1da35035ca073
+
+Asset_Bundle_Version 2
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 34000
+
+Size_X 2
+Size_Y 1
+Size_Z 0.16
+
+Health 100
+Range 4
+Radius 0.25
+Offset 0.1
+
+Explosion 35
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 1297
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27

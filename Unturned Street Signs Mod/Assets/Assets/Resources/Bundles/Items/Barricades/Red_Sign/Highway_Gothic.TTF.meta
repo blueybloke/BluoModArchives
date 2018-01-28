@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 867015ee7df601346bf075cb63f005a8
+timeCreated: 1501416664
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Highway Gothic
+  fontNames:
+  - Highway Gothic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1927a7ee52979e84584d0bcc2061c13a, type: 3}
+  - {fileID: 12800000, guid: ede0c1dfc7cacb340bfa6111de71bc44, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
